@@ -3,6 +3,8 @@
 ## Description
 Medication Voice Reminder is a professional healthcare-focused project designed to help elderly individuals take their medications on time. The system uses automated voice calls to remind users of their scheduled medication. If the user does not respond, an instant notification is sent to a caregiver (e.g., family member) to ensure proper follow-up.
 
+**Note:** This project is currently under active development and has not been officially launched yet.
+
 ## How it Works
 - Elderly users receive automated voice calls at scheduled times.
 - The call says: "Hello [User Name], this is your medication reminder. It is time to take your [Medication Name]. Please press 1 to confirm."
