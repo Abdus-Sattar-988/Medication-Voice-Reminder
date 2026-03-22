@@ -1,0 +1,4 @@
+Hello John, this is your Medication Voice Reminder.
+It is time to take your blood pressure medicine.
+Please press 1 to confirm.
+If you do not respond, a notification will be sent to your caregiver.
