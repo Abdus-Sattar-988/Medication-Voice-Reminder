@@ -19,3 +19,8 @@ Medication Voice Reminder is a professional healthcare-focused project designed 
 "Hello John, this is your Medication Voice Reminder. It is time to take your blood pressure medicine. Please press 1 to confirm. If you do not respond, a notification will be sent to your caregiver."Contact chart 
 ## System Architecture & Workflow
 ![image lt](https://github.com/Abdus-Sattar-988/Medication-Voice-Reminder/blob/7234caa834bdbdc24df4b0950ac390d9bb4a1e44/file_00000000761c71f88c940956d7e09614.png)
+
+
+
+## Application User Interface (UI) Showcase
+![image alt](https://github.com/Abdus-Sattar-988/Medication-Voice-Reminder/blob/daec0288d30ab08e790244fb094568d5a426d027/1774172461558.png) 
