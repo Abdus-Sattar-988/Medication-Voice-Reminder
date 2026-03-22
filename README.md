@@ -17,3 +17,6 @@ Medication Voice Reminder is a professional healthcare-focused project designed 
 
 ## Sample Voice Call
 "Hello John, this is your Medication Voice Reminder. It is time to take your blood pressure medicine. Please press 1 to confirm. If you do not respond, a notification will be sent to your caregiver."
+
+## Call flow mechanism 
+https://github.com/Abdus-Sattar-988/Medication-Voice-Reminder/blob/7234caa834bdbdc24df4b0950ac390d9bb4a1e44/file_00000000761c71f88c940956d7e09614.png
